@@ -1,0 +1,104 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+.container{
+    width: 1024px;
+    height: 600px;
+    float: left;
+    border: 10px solid rgb(208, 208, 208);
+    margin: 10px 0 0 10px;
+}
+
+.left{
+    width: 200px;
+    height: 600px;
+    float: left;
+    border-right: 10px solid black;
+}
+
+.left1{
+    width: 200px;
+    height: 295px;
+    float: left;
+    background-color: aqua;
+    border-bottom: 10px solid black;
+}
+
+.left2{
+    width: 200px;
+    height: 295px;
+    float: left;
+    background-color: aquamarine;
+}
+
+.centr{
+    width: 550px;
+    height: 600px;
+    float: left;
+}
+
+.centr1{
+    width: 550px;
+    height: 142px;
+    float: left;
+    border-bottom: 10px solid black;
+}
+.centr2{
+    width: 550px;
+    height: 142px;
+    float: left;
+}
+.centr3{
+    width: 550px;
+    height: 297px;
+    float: left;
+    background-color: rgb(38, 38, 139);
+    border-top: 10px solid black;
+}
+
+.right{
+    width: 254px;
+    height: 600px;
+    float: left;
+    border-left: 10px solid black;
+    background-color: brown;
+    position: relative;
+}
+
+.right1{
+    width: 254px;
+    height: 293px;
+    float: left;
+    border-bottom: 10px solid black;
+    background-color: red;
+}
+
+.right2{
+    width: 122px;
+    height: 300px;
+    float: left;
+    border-right: 10px solid black;
+}
+
+.right3{
+    width: 122.3px;
+    height: 144px;
+    float: left;
+    border-bottom: 10px solid black;
+    background-color: yellow;
+    position: absolute;
+    right: 0;
+    bottom: 145px;
+}
+
+.right4{
+    width: 122.3px;
+    height: 144px;
+    float: left;
+    background-color: yellow;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
